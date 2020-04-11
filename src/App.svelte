@@ -23,8 +23,8 @@
 
   .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, 14rem);
-    grid-auto-rows: 6rem;
+    grid-template-columns: repeat(auto-fill, 10rem);
+    grid-auto-rows: 8rem;
     grid-gap: 1rem;
     justify-content: center;
 
@@ -35,6 +35,10 @@
   @media (min-width: 640px) {
     main {
       max-width: none;
+    }
+
+    .grid {
+      padding: 2rem 1rem;
     }
   }
 </style>

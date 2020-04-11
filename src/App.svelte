@@ -45,6 +45,7 @@
   {#await loadList()}
     <Spinner />
   {:then files}
+
     <div class="grid">
       {#each files as file}
         <AudioPlayer src="audio/{file.filename}" />

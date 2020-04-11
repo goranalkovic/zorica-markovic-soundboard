@@ -35,12 +35,6 @@
 <style>
   /* audio { width: 100%; margin: 0.5em 0 1em 0; } */
 
-  .paused {
-    background-color: #ff3e00;
-    color: #fff;
-    border-color: #ff3e00;
-  }
-
   button {
     width: 100%;
     height: 100%;

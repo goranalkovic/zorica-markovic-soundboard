@@ -1,7 +1,16 @@
+:root {
+	--accent: #ff3e00;
+}
+
 html, body {
 	position: relative;
 	width: 100%;
 	height: 100%;
+	user-select: none;
+}
+
+body {
+	cursor: url("./cursor.png"), auto;
 }
 
 body {
@@ -52,9 +61,11 @@ button {
 	color: #333;
 	background-color: #f4f4f4;
 	outline: none;
+	/* cursor: pointer; */
+	cursor: url("./cursor-2.png"), auto;
 }
 
-button:hover {
+button:not(.paused):hover {
 	background-color: #e8e8e8;
 }
 
@@ -68,4 +79,34 @@ button:not(:disabled):active {
 
 button:focus {
 	border-color: #666;
+}
+
+button.paused, button.paused:hover {
+	background-color: var(--accent);
+	color: #fff;
+	border-color: var(--accent);
+	cursor: url("./cursor-3.png"), auto !important;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--accent: hsl(15, 60%, 70%);
+	}
+	body {
+		background-color: #161616;
+		color: #fff;
+	}
+	button {
+		background-color: #202020;
+		color: #eee;
+		border-color: #303030;
+	}
+	button:not(.paused):hover {
+		background-color: #303030;
+	}
+	button.paused, button.paused:hover {
+		background-color: #161616;
+		color: var(--accent);
+		border-color: var(--accent);
+	}
 }

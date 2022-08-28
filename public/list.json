@@ -1,362 +1,482 @@
 [
     {
-        "filename": "ahaaa-ahaaa.m4a"
+        "filename": "ahaaa-ahaaa.m4a",
+        "label": "Ahaaa, ahaaa"
     },
     {
-        "filename": "ako-te-pljunem-zardjat-ces.m4a"
+        "filename": "ako-te-pljunem-zardjat-ces.m4a",
+        "label": "Ako te pljunem zarđat ćeš"
     },
     {
-        "filename": "al-ne-vredi-ne-moze-ti-si-kurva-u-mozgu.m4a"
+        "filename": "al-ne-vredi-ne-moze-ti-si-kurva-u-mozgu.m4a",
+        "label": "Al ne vredi, ne može, ti si kurva u mozgu"
     },
     {
-        "filename": "alo-ja-nisam-sluzavka-nicija-ovo-je-cisto-moja-dobra-volja.m4a"
+        "filename": "alo-ja-nisam-sluzavka-nicija-ovo-je-cisto-moja-dobra-volja.m4a",
+        "label": "Alo, ja nisam služavka ničija, ovo je čisto moja dobra volja"
     },
     {
-        "filename": "alo-ja-nisam-sluzavka-nicija.m4a"
+        "filename": "alo-ja-nisam-sluzavka-nicija.m4a",
+        "label": "Alo, ja nisam služavka ničija"
     },
     {
-        "filename": "bolje-da-si-se-za-trofaznu-struju-uhvatila-nego-za-mene.m4a"
+        "filename": "bolje-da-si-se-za-trofaznu-struju-uhvatila-nego-za-mene.m4a",
+        "label": "Bolje da si se za trofaznu struju uhvatila nego za mene"
     },
     {
-        "filename": "cao-bednice.m4a"
+        "filename": "cao-bednice.m4a",
+        "label": "Ćao, bednice"
     },
     {
-        "filename": "cao-cao-cao-cao-cao.m4a"
+        "filename": "cao-cao-cao-cao-cao.m4a",
+        "label": "Ćao ćao ćao ćao"
     },
     {
-        "filename": "cgr-dgr-obr-1997.m4a"
+        "filename": "cgr-dgr-obr-1997.m4a",
+        "label": "Gara / cgr obr dgr (1997)"
     },
     {
-        "filename": "cgr-dgr-obr-fakju.m4a"
+        "filename": "cgr-dgr-obr-fakju.m4a",
+        "label": "Gara / cgr obr dgr fakju (live)"
     },
     {
-        "filename": "cgr-dgr-obr.m4a"
+        "filename": "cgr-dgr-obr.m4a",
+        "label": "Gara / cgr obr dgr (original)"
     },
     {
-        "filename": "cuti-bre-zavezi-bre.m4a"
+        "filename": "cuti-bre-zavezi-bre.m4a",
+        "label": "Ćuti bre, zaveži bre"
     },
     {
-        "filename": "da-bi-videla-s-kim-zivim-ne-bi-ti-bilo-dobro-mucenice.m4a"
+        "filename": "da-bi-videla-s-kim-zivim-ne-bi-ti-bilo-dobro-mucenice.m4a",
+        "label": "Da bi videla s kim živim ne bi ti bilo dobro, mučenice"
     },
     {
-        "filename": "da-da.m4a"
+        "filename": "da-da.m4a",
+        "label": "Da, da"
     },
     {
-        "filename": "da-sire-noge-to-znaju-za-to-su-razradjene-mesaj-udri.m4a"
+        "filename": "da-sire-noge-to-znaju-za-to-su-razradjene-mesaj-udri.m4a",
+        "label": "Da šire noge to znaju, zato su razrađene, mešaj, udri"
     },
     {
-        "filename": "dodji-vamo-da-te-sastavim-sa-crnom-zemljom-picko-jedna-pijana-bre.m4a"
+        "filename": "dodji-vamo-da-te-sastavim-sa-crnom-zemljom-picko-jedna-pijana-bre.m4a",
+        "label": "Dođi vamo da te sastavim sa crnom zemljom, pičko jedna pijana bre"
     },
     {
-        "filename": "dokad-vise-bre-dokad.m4a"
+        "filename": "dokad-vise-bre-dokad.m4a",
+        "label": "Dokad više bre, dokad?"
     },
     {
-        "filename": "dokad-vise-bre.m4a"
+        "filename": "dokad-vise-bre.m4a",
+        "label": "Dokad više bre?"
     },
     {
-        "filename": "e-muko-jedna.m4a"
+        "filename": "e-muko-jedna.m4a",
+        "label": "E muko jedna"
     },
     {
-        "filename": "e-onda-ces-biti-jebena-i-prebijena-jebem-li-ti-mamu-kurvinu.m4a"
+        "filename": "e-onda-ces-biti-jebena-i-prebijena-jebem-li-ti-mamu-kurvinu.m4a",
+        "label": "E onda ćeš biti jebena i prebijena, jebem li ti mamu kurvinu"
     },
     {
-        "filename": "e-sad-cu-ja-njemu-na-grbacu-da-se-nakacim.m4a"
+        "filename": "e-sad-cu-ja-njemu-na-grbacu-da-se-nakacim.m4a",
+        "label": "E sad ću ja njemu na grbaču da se nakačim"
     },
     {
-        "filename": "e-sad-stvarno-pusite-kurac.m4a"
+        "filename": "e-sad-stvarno-pusite-kurac.m4a",
+        "label": "E sad stvarno pušite kurac"
     },
     {
-        "filename": "ehehehe.m4a"
+        "filename": "ehehehe.m4a",
+        "label": "Ehehehe"
     },
     {
-        "filename": "ej-jadnice-pa-ti-se-raspadas-nisi-ni-svesna.m4a"
+        "filename": "ej-jadnice-pa-ti-se-raspadas-nisi-ni-svesna.m4a",
+        "label": "Ej jadnice, pa ti se raspadaš nisi ni svesna"
     },
     {
-        "filename": "evo-sacu-ja-da-mu-kazem-ko-ga-je-doveo-i-ko-ga-drzi-i-ko-ga-ceka-napolju.m4a"
+        "filename": "evo-sacu-ja-da-mu-kazem-ko-ga-je-doveo-i-ko-ga-drzi-i-ko-ga-ceka-napolju.m4a",
+        "label": "Evo saću ja da mu kazem ko ga je doveo i ko ga drži i ko ga čeka napolju"
     },
     {
-        "filename": "fizionomiju-cu-ti-izmijeniti-zapamti.m4a"
+        "filename": "fizionomiju-cu-ti-izmijeniti-zapamti.m4a",
+        "label": "Fizionomiju ću ti izmijeniti, zapamti"
     },
     {
-        "filename": "glumis-nesto-deres-se-ovde-picka-ti-materina-bre-ne-sme-niko-nista-da-kaze.m4a"
+        "filename": "glumis-nesto-deres-se-ovde-picka-ti-materina-bre-ne-sme-niko-nista-da-kaze.m4a",
+        "label": "Glumiš nešto, dereš se ovde, pička ti materina bre, ne sme niko ništa da kaže"
     },
     {
-        "filename": "gora-si-od-picajzle-skini-mi-se-s-kicme.m4a"
+        "filename": "gora-si-od-picajzle-skini-mi-se-s-kicme.m4a",
+        "label": "Gora si od picajzle, skini mi se s kičme"
     },
     {
-        "filename": "ha-ha-ha-ha-ha.m4a"
+        "filename": "ha-ha-ha-ha-ha.m4a",
+        "label": "Ha, ha, ha, ha, ha"
     },
     {
-        "filename": "hoces-meni.m4a"
+        "filename": "hoces-meni.m4a",
+        "label": "Hoćeš meni?!"
     },
     {
-        "filename": "ima-neki-stav-ko-da-je-popio-sav-mozak-ovog-sveta.m4a"
+        "filename": "ima-neki-stav-ko-da-je-popio-sav-mozak-ovog-sveta.m4a",
+        "label": "Ima neki stav ko da je popio sav mozak ovog sveta"
     },
     {
-        "filename": "imas-da-crknes-kad-si-pokvaren.m4a"
+        "filename": "imas-da-crknes-kad-si-pokvaren.m4a",
+        "label": "Imaš da crkneš kad si pokvaren"
     },
     {
-        "filename": "imas-facu-kao-pikinezer.m4a"
+        "filename": "imas-facu-kao-pikinezer.m4a",
+        "label": "Imaš facu kao pikinezer"
     },
     {
-        "filename": "izlazi-napolje-bre-mrs-picko-pijana.m4a"
+        "filename": "izlazi-napolje-bre-mrs-picko-pijana.m4a",
+        "label": "Izlazi napolje bre, mrš pičko pijana"
     },
     {
-        "filename": "ja-imam-komplekse-jebem-te-u-usta-razbicu-te-sad-ko-picku.m4a"
+        "filename": "ja-imam-komplekse-jebem-te-u-usta-razbicu-te-sad-ko-picku.m4a",
+        "label": "Ja imam komplekse jebem te u usta, razbiću te sad ko pičku"
     },
     {
-        "filename": "ja-kad-ne-bi-srala-ti-ne-bi-imao-sta-da-jedes.m4a"
+        "filename": "ja-kad-ne-bi-srala-ti-ne-bi-imao-sta-da-jedes.m4a",
+        "label": "Ja kad ne bi srala ti ne bi imao šta da jedeš"
     },
     {
-        "filename": "ja-necu-da-je-ostavim-na-miru-usracu-joj-se-u-zivot.m4a"
+        "filename": "ja-necu-da-je-ostavim-na-miru-usracu-joj-se-u-zivot.m4a",
+        "label": "Ja neću da je ostavim na miru, usraću joj se u zivot"
     },
     {
-        "filename": "ja-nemam-nameru-da-budem-sudopera-nego-lider.m4a"
+        "filename": "ja-nemam-nameru-da-budem-sudopera-nego-lider.m4a",
+        "label": "Ja nemam nameru da budem sudopera, nego lider"
     },
     {
-        "filename": "ja-sam-najgora-ja-sam-najpodlija-ja-sam-djubre-ja-sam-raspali-olos-ja-sam-ljudski-odron.m4a"
+        "filename": "ja-sam-najgora-ja-sam-najpodlija-ja-sam-djubre-ja-sam-raspali-olos-ja-sam-ljudski-odron.m4a",
+        "label": "Ja sam najgora, ja sam najpodlija, ja sam đubre, ja sam raspali ološ, ja sam ljudski odron"
     },
     {
-        "filename": "ja-sam-ovde-totalno-neutralna.m4a"
+        "filename": "ja-sam-ovde-totalno-neutralna.m4a",
+        "label": "Ja sam ovde totalno neutralna"
     },
     {
-        "filename": "ja-sam-zena-majka-kraljica-domacica-sve.m4a"
+        "filename": "ja-sam-zena-majka-kraljica-domacica-sve.m4a",
+        "label": "Ja sam žena, majka, kraljica, domaćica, sve"
     },
     {
-        "filename": "jadna-kuca-gde-one-dodju.m4a"
+        "filename": "jadna-kuca-gde-one-dodju.m4a",
+        "label": "Jadna kuća gde one dođu"
     },
     {
-        "filename": "jao-boze-gospode-ja-nisam-normalna.m4a"
+        "filename": "jao-boze-gospode-ja-nisam-normalna.m4a",
+        "label": "Jao bože gospode, ja nisam normalna"
     },
     {
-        "filename": "jao-zivote-jebem-ti-mater-u-picku-ti-jebem-zivote.m4a"
+        "filename": "jao-zivote-jebem-ti-mater-u-picku-ti-jebem-zivote.m4a",
+        "label": "Jao živote jebem ti mater u pičku ti jebem živote"
     },
     {
-        "filename": "jebem-li-ti-familiju-celu.m4a"
+        "filename": "jebem-li-ti-familiju-celu.m4a",
+        "label": "Jebem li ti familiju celu!"
     },
     {
-        "filename": "jebem-li-ti-mamu-familiju-poreklo-genetiku-seme-sve-ti-jebem.m4a"
+        "filename": "jebem-li-ti-mamu-familiju-poreklo-genetiku-seme-sve-ti-jebem.m4a",
+        "label": "Jebem li ti mamu, familiju, poreklo, genetiku, seme, ... sve ti jebem!"
     },
     {
-        "filename": "jebem-li-ti-mamu-u-picku-kurvinu.m4a"
+        "filename": "jebem-li-ti-mamu-u-picku-kurvinu.m4a",
+        "label": "Jebem li ti mamu u pičku kurvinu!"
     },
     {
-        "filename": "jebem-li-ti-seme-koje-nosis.m4a"
+        "filename": "jebem-li-ti-seme-koje-nosis.m4a",
+        "label": "Jebem li ti seme koje nosiš!"
     },
     {
-        "filename": "jebem-ti-sedam-kolena-i-unapred-i-unazad.m4a"
+        "filename": "jebem-ti-sedam-kolena-i-unapred-i-unazad.m4a",
+        "label": "Jebem ti sedam kolena i unapred i unazad!"
     },
     {
-        "filename": "jedi-govna-bre-majmune.m4a"
+        "filename": "jedi-govna-bre-majmune.m4a",
+        "label": "Jedi govna bre majmune!"
     },
     {
-        "filename": "jedi-govna-i-ti-i-zajedno-s-ugovorom.m4a"
+        "filename": "jedi-govna-i-ti-i-zajedno-s-ugovorom.m4a",
+        "label": "Jedi govna i ti i zajedno s ugovorom!"
     },
     {
-        "filename": "kakav-komentar-na-celu-situaciju-i-pitanje-da-si-sve-pojeo.m4a"
+        "filename": "kakav-komentar-na-celu-situaciju-i-pitanje-da-si-sve-pojeo.m4a",
+        "label": "Kakav komentar na celu situaciju i pitanje da si sve pojeo"
     },
     {
-        "filename": "kako-cu-ti-se-usrati-u-zivot-kurvo.m4a"
+        "filename": "kako-cu-ti-se-usrati-u-zivot-kurvo.m4a",
+        "label": "Kako ću ti se usrati u život kurvo"
     },
     {
-        "filename": "kako-sam-dosla-seo-mi-na-kicmu-nikad-mu-nista-nisam-rekla.m4a"
+        "filename": "kako-sam-dosla-seo-mi-na-kicmu-nikad-mu-nista-nisam-rekla.m4a",
+        "label": "Kako sam došla seo mi na kičmu, nikad mu nista nisam rekla"
     },
     {
-        "filename": "lizes-picke-jebu-te-za-pare.m4a"
+        "filename": "lizes-picke-jebu-te-za-pare.m4a",
+        "label": "Ližeš pičke, jebu te za pare"
     },
     {
-        "filename": "ma-hladno-je-kurac.m4a"
+        "filename": "ma-hladno-je-kurac.m4a",
+        "label": "Ma hladno je kurac"
     },
     {
-        "filename": "ma-sacu-da-se-poserem-ovde-sacu-da-joj-se-poserem-na-krevet.m4a"
+        "filename": "ma-sacu-da-se-poserem-ovde-sacu-da-joj-se-poserem-na-krevet.m4a",
+        "label": "Ma saću da se poserem ovde, saću da joj se poserem na krevet"
     },
     {
-        "filename": "ma-sacu-da-se-poserem-ovde-sacu-da-joj-se-poserem-na-krevet-extended.m4a"
+        "filename": "ma-sacu-da-se-poserem-ovde-sacu-da-joj-se-poserem-na-krevet-extended.m4a",
+        "label": "Ma saću da se poserem ovde, saću da joj se poserem na krevet (extended)"
     },
     {
-        "filename": "mamu-ti-jebem-kurvetino.m4a"
+        "filename": "mamu-ti-jebem-kurvetino.m4a",
+        "label": "Mamu ti jebem, kurvetino"
     },
     {
-        "filename": "marija-za-koliko-smo-ja-i-ti-celu-kuhinju-sredili.m4a"
+        "filename": "marija-za-koliko-smo-ja-i-ti-celu-kuhinju-sredili.m4a",
+        "label": "Marija, za koliko smo ja i ti celu kuhinju sredili"
     },
     {
-        "filename": "mhm-da-da-da-da.m4a"
+        "filename": "mhm-da-da-da-da.m4a",
+        "label": "Mhm, da da, da da"
     },
     {
-        "filename": "misliti-srati-cvece-brati-nikad-nije-bilo-isto.m4a"
+        "filename": "misliti-srati-cvece-brati-nikad-nije-bilo-isto.m4a",
+        "label": "Misliti, srati, cveće brati, nikad nije bilo isto"
     },
     {
-        "filename": "mnogo-mi-je-zao-sto-sam-pozitivnu-energiju-potrosila-uz-vetar.m4a"
+        "filename": "mnogo-mi-je-zao-sto-sam-pozitivnu-energiju-potrosila-uz-vetar.m4a",
+        "label": "Mnogo mi je žao sto sam pozitivnu energiju potrošila uz vetar"
     },
     {
-        "filename": "momentalno-da-se-pocisti-soba-produzena-verzija.m4a"
+        "filename": "momentalno-da-se-pocisti-soba-produzena-verzija.m4a",
+        "label": "Momentalno da se počisti soba (extended)"
     },
     {
-        "filename": "momentalno-da-se-pocisti-soba.m4a"
+        "filename": "momentalno-da-se-pocisti-soba.m4a",
+        "label": "Momentalno da se počisti soba"
     },
     {
-        "filename": "mrs-u-picku-materinu.glumis-mi-mafiozu-ovde-ti-neku.m4a"
+        "filename": "mrs-u-picku-materinu.glumis-mi-mafiozu-ovde-ti-neku.m4a",
+        "label": "Mrš u pičku materinu, glumiš mi mafiozu ovde ti neku"
     },
     {
-        "filename": "na-koga-da-budem-ljubomorna-ovde.m4a"
+        "filename": "na-koga-da-budem-ljubomorna-ovde.m4a",
+        "label": "Na koga da budem ljubomorna ovde"
     },
     {
-        "filename": "na-prstima-hodam-jesam-li-ikog-probudila.m4a"
+        "filename": "na-prstima-hodam-jesam-li-ikog-probudila.m4a",
+        "label": "Na prstima hodam, jesam li ikog probudila?"
     },
     {
-        "filename": "ne-deri-se-na-mene.m4a"
+        "filename": "ne-deri-se-na-mene.m4a",
+        "label": "Ne deri se na mene!"
     },
     {
-        "filename": "ne-mogu-da-se-odlucim-al-sve-bi-ih-potamanila.m4a"
+        "filename": "ne-mogu-da-se-odlucim-al-sve-bi-ih-potamanila.m4a",
+        "label": "Ne mogu da se odlučim, al sve bi ih potamanila"
     },
     {
-        "filename": "ne-pominji-mene-vise-jel-ti-jasno-zavezi.m4a"
+        "filename": "ne-pominji-mene-vise-jel-ti-jasno-zavezi.m4a",
+        "label": "Ne pominji mene vise, jel ti jasno? Zaveži!"
     },
     {
-        "filename": "ne-seri-govno-jedno-otrcano-matoro-nemoj-da-me-vredjas.m4a"
+        "filename": "ne-seri-govno-jedno-otrcano-matoro-nemoj-da-me-vredjas.m4a",
+        "label": "Ne seri govno jedno otrcano matoro, nemoj da me vređas"
     },
     {
-        "filename": "nemoj-da-se-deres-ti-na-mene-zavezi-bre.m4a"
+        "filename": "nemoj-da-se-deres-ti-na-mene-zavezi-bre.m4a",
+        "label": "Nemoj da se dereš ti na mene, zaveži bre!"
     },
     {
-        "filename": "obrisacu-farmu-s-tobom.m4a"
+        "filename": "obrisacu-farmu-s-tobom.m4a",
+        "label": "Obrisaću farmu s tobom"
     },
     {
-        "filename": "od-sad-u-sirokom-luku-me-obilazi.m4a"
+        "filename": "od-sad-u-sirokom-luku-me-obilazi.m4a",
+        "label": "Od sad u širokom luku me obilazi"
     },
     {
-        "filename": "od-sada-ja-cu-prati-sudove.m4a"
+        "filename": "od-sada-ja-cu-prati-sudove.m4a",
+        "label": "Od sada ja ću prati sudove"
     },
     {
-        "filename": "od-sada-nadalje-neces-imati-mira-od-mene-oko-hrane-i-svega.m4a"
+        "filename": "od-sada-nadalje-neces-imati-mira-od-mene-oko-hrane-i-svega.m4a",
+        "label": "Od sada nadalje nećeš imati mira od mene oko hrane i svega"
     },
     {
-        "filename": "odi-me-poljubi-u-stiklu-kada-ugazim-u-govno.m4a"
+        "filename": "odi-me-poljubi-u-stiklu-kada-ugazim-u-govno.m4a",
+        "label": "Odi me poljubi u štiklu kada ugazim u govno"
     },
     {
-        "filename": "ohohoho-jao-jadnice.m4a"
+        "filename": "ohohoho-jao-jadnice.m4a",
+        "label": "Ohohoho, jao, jao jadnice"
     },
     {
-        "filename": "pa-gde-sam-ja-dosla-da-zivim-u-stenaru.m4a"
+        "filename": "pa-gde-sam-ja-dosla-da-zivim-u-stenaru.m4a",
+        "label": "Pa gde sam ja došla da živim, u štenaru?"
     },
     {
-        "filename": "pa-ja-sam-taman-videla-da-neki-brisu-ovako-nakon-oralnog-sexa-ko-da-svi-jedu-burek.m4a"
+        "filename": "pa-ja-sam-taman-videla-da-neki-brisu-ovako-nakon-oralnog-sexa-ko-da-svi-jedu-burek.m4a",
+        "label": "Pa ja sam taman videla da neki brišu ovako nakon oralnog sexa, ko da svi jedu burek"
     },
     {
-        "filename": "pa-pogledaj-fuxo-na-sta-licis.m4a"
+        "filename": "pa-pogledaj-fuxo-na-sta-licis.m4a",
+        "label": "Pa pogledaj fuxo na šta ličis"
     },
     {
-        "filename": "picka-ti-materina-bre-nistacka.m4a"
+        "filename": "picka-ti-materina-bre-nistacka.m4a",
+        "label": "Pička ti materina bre ništačka"
     },
     {
-        "filename": "pijandura-jedna-picketina-jedna-pijana.m4a"
+        "filename": "pijandura-jedna-picketina-jedna-pijana.m4a",
+        "label": "Pijandura jedna, pičketina jedna pijana"
     },
     {
-        "filename": "poklone-i-uvrede-ne-primam-od-svakoga.m4a"
+        "filename": "poklone-i-uvrede-ne-primam-od-svakoga.m4a",
+        "label": "Poklone i uvrede ne primam od svakoga"
     },
     {
-        "filename": "polako-bez-svadje-bez-frke-bez-dranja-i-bez-gestikulacije-majmunske.m4a"
+        "filename": "polako-bez-svadje-bez-frke-bez-dranja-i-bez-gestikulacije-majmunske.m4a",
+        "label": "Polako, bez svađe, bez frke, bez dranja i bez gestikulacije majmunske"
     },
     {
-        "filename": "posle-svakog-kupanja-pokupim-vodu-ova-vice-klozetarka.m4a"
+        "filename": "posle-svakog-kupanja-pokupim-vodu-ova-vice-klozetarka.m4a",
+        "label": "Posle svakog kupanja pokupim vodu, ova vice klozetarka"
     },
     {
-        "filename": "posteljina.m4a"
+        "filename": "posteljina.m4a",
+        "label": "Posteljina"
     },
     {
-        "filename": "problem-je-sto-si-glupa-poseres-pa-polizes.m4a"
+        "filename": "problem-je-sto-si-glupa-poseres-pa-polizes.m4a",
+        "label": "Problem je što si glupa, poseres pa polizes"
     },
     {
-        "filename": "profitarole.m4a"
+        "filename": "profitarole.m4a",
+        "label": "Pro-fi-ta-ro-le"
     },
     {
-        "filename": "prostitutko-najplacenija-kurvo.m4a"
+        "filename": "prostitutko-najplacenija-kurvo.m4a",
+        "label": "Prostitutko, najplaćenija kurvo"
     },
     {
-        "filename": "puj-nisi-ni-pljuvacke-moje-vrijedna.m4a"
+        "filename": "puj-nisi-ni-pljuvacke-moje-vrijedna.m4a",
+        "label": "Puj, nisi ni pljuvačke moje vredna"
     },
     {
-        "filename": "puj-olosu-jedan-za-pijacu.m4a"
+        "filename": "puj-olosu-jedan-za-pijacu.m4a",
+        "label": "Puj, ološu jedan za pijacu"
     },
     {
-        "filename": "sad-cu-ja-picki-da-pokazem.m4a"
+        "filename": "sad-cu-ja-picki-da-pokazem.m4a",
+        "label": "Sad ću ja pički da pokazem"
     },
     {
-        "filename": "samnom-se-niko-nece-zajebavat.m4a"
+        "filename": "samnom-se-niko-nece-zajebavat.m4a",
+        "label": "Samnom se niko neće zajebavat"
     },
     {
-        "filename": "seme-ti-jebem-krvavo.m4a"
+        "filename": "seme-ti-jebem-krvavo.m4a",
+        "label": "Seme ti jebem krvavo"
     },
     {
-        "filename": "sta-me-gledas-a-mislis-da-te-se-bojim.m4a"
+        "filename": "sta-me-gledas-a-mislis-da-te-se-bojim.m4a",
+        "label": "Šta me gledas, a? Misliš da te se bojim?"
     },
     {
-        "filename": "sta-sam-dosla-jebem-ti-mamu-u-picku-ti-jebem.m4a"
+        "filename": "sta-sam-dosla-jebem-ti-mamu-u-picku-ti-jebem.m4a",
+        "label": "Šta sam dosla, jebem ti mamu u pičku ti jebem"
     },
     {
-        "filename": "sta-si-me-pito-kad-si-uso-u-sobu.m4a"
+        "filename": "sta-si-me-pito-kad-si-uso-u-sobu.m4a",
+        "label": "Šta si me pito kad si ušo u sobu?"
     },
     {
-        "filename": "sta-si-pevacica-jebacica-koje-je-tvoje-zvanje.m4a"
+        "filename": "sta-si-pevacica-jebacica-koje-je-tvoje-zvanje.m4a",
+        "label": "Šta si, pevacica, jebačica, koje je tvoje zvanje?"
     },
     {
-        "filename": "sto-lazes-jebem-li-te-u-usta-mala.m4a"
+        "filename": "sto-lazes-jebem-li-te-u-usta-mala.m4a",
+        "label": "Što lazes, jebem li te u usta mala?"
     },
     {
-        "filename": "strasno-mi-po-mozgu-ides.m4a"
+        "filename": "strasno-mi-po-mozgu-ides.m4a",
+        "label": "Strašno mi po mozgu ides"
     },
     {
-        "filename": "strvino-pacovska-jebem-te-u-usta-zvaljava.m4a"
+        "filename": "strvino-pacovska-jebem-te-u-usta-zvaljava.m4a",
+        "label": "Strvino pacovska, jebem te u usta žvaljava"
     },
     {
-        "filename": "sujetni-jadni-ograniceni-ja-sam-mislila-da-je-ona-kudikamo-inteligentnija.m4a"
+        "filename": "sujetni-jadni-ograniceni-ja-sam-mislila-da-je-ona-kudikamo-inteligentnija.m4a",
+        "label": "Sujetni, jadni, ograničeni, ja sam mislila da je ona kudikamo inteligentnija"
     },
     {
-        "filename": "ti-nisi-drugo-nego-pralja-idi-pa-peri.m4a"
+        "filename": "ti-nisi-drugo-nego-pralja-idi-pa-peri.m4a",
+        "label": "Ti nisi drugo nego pralja, idi pa peri"
     },
     {
-        "filename": "ti-postajes-merna-jedinica-za-glupocu.m4a"
+        "filename": "ti-postajes-merna-jedinica-za-glupocu.m4a",
+        "label": "Ti postajes merna jedinica za glupoću"
     },
     {
-        "filename": "ti-rascipam-glavu-dzogerom-pa-cu-ti-kazem-ko-je-sta-mamu-ti-jebem.m4a"
+        "filename": "ti-rascipam-glavu-dzogerom-pa-cu-ti-kazem-ko-je-sta-mamu-ti-jebem.m4a",
+        "label": "Ti rascipam glavu džogerom pa ću ti kazem ko je sta, mamu ti jebem"
     },
     {
-        "filename": "ti-si-mnogo-bitna-u-picku-materinu.m4a"
+        "filename": "ti-si-mnogo-bitna-u-picku-materinu.m4a",
+        "label": "Ti si mnogo bitna u pičku materinu"
     },
     {
-        "filename": "ti-volis-picku-na-plejbek.m4a"
+        "filename": "ti-volis-picku-na-plejbek.m4a",
+        "label": "Ti volis pičku na plejbek"
     },
     {
-        "filename": "to-takvi-olosi-zavladali.m4a"
+        "filename": "to-takvi-olosi-zavladali.m4a",
+        "label": "To takvi ološi zavladali"
     },
     {
-        "filename": "uhvatila-si-se-za-trofaznu-struju-pazi-da-ne-nastradas-od-nje.m4a"
+        "filename": "uhvatila-si-se-za-trofaznu-struju-pazi-da-ne-nastradas-od-nje.m4a",
+        "label": "Uhvatila si se za trofaznu struju, pazi da ne nastradas od nje!"
     },
     {
-        "filename": "usracu-joj-se-u-zivot-odsad-do-kraja.m4a"
+        "filename": "usracu-joj-se-u-zivot-odsad-do-kraja.m4a",
+        "label": "Usraću joj se u zivot, odsad do kraja"
     },
     {
-        "filename": "usracu-ti-se-u-zivot-da-ces-pamtiti-do-kraja-zivota.m4a"
+        "filename": "usracu-ti-se-u-zivot-da-ces-pamtiti-do-kraja-zivota.m4a",
+        "label": "Usraću ti se u zivot da ćeš pamtiti do kraja zivota"
     },
     {
-        "filename": "usracu-ti-se-u-zivot-zapamti.m4a"
+        "filename": "usracu-ti-se-u-zivot-zapamti.m4a",
+        "label": "Usraću ti se u zivot, zapamti"
     },
     {
-        "filename": "vidimo-se-na-sudu-cao-zdravo-dovidjenja.m4a"
+        "filename": "vidimo-se-na-sudu-cao-zdravo-dovidjenja.m4a",
+        "label": "Vidimo se na sudu! Ćao, zdravo, doviđenja"
     },
     {
-        "filename": "zabagovala-sam-malo.m4a"
+        "filename": "zabagovala-sam-malo.m4a",
+        "label": "Zabagovala sam malo"
     },
     {
-        "filename": "zavezi-jebem-ti-genetiku-poreklo-i-porodicu.m4a"
+        "filename": "zavezi-jebem-ti-genetiku-poreklo-i-porodicu.m4a",
+        "label": "Zaveži, jebem ti genetiku poreklo i porodicu"
     },
     {
-        "filename": "znas-sta-lakse-ti-je-u-dupe-uterati-nego-u-glavu.m4a"
+        "filename": "znas-sta-lakse-ti-je-u-dupe-uterati-nego-u-glavu.m4a",
+        "label": "Znas šta, lakše ti je u dupe uterati nego u glavu"
     },
     {
-        "filename": "zoka-vic-majstor.m4a"
+        "filename": "zoka-vic-majstor.m4a",
+        "label": "Zoka vic majstor (pomfrit i pomfritica)"
     },
     {
-        "filename": "zorka-ce-te-razvaliti.m4a"
+        "filename": "zorka-ce-te-razvaliti.m4a",
+        "label": "Zorka će te razvaliti"
     }
 ]

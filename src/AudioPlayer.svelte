@@ -1,49 +1,44 @@
 <script context="module">
-  let current;
+	let current;
 </script>
 
 <script>
-  export let src;
-  let audio;
-  let paused = true;
+	import { slide } from 'svelte/transition';
 
-  function stopOthers() {
-    if (current && current !== audio) current.pause();
-    current = audio;
-  }
+	export let file;
+	let audio;
+	let paused = true;
 
-  function play() {
-    stopOthers();
-    if (current && current === audio) {
-      audio.currentTime = 0;
-      audio.play();
-    }
-    current = audio;
-  }
+	function stopOthers() {
+		if (current && current !== audio) current.pause();
+		current = audio;
+	}
 
-  function formatName(input) {
-    return input
-      .replace("audio/", "")
-      .replace(/-/g, " ")
-      .replace(/dj/g, "đ")
-      .replace(/dz/g, "dž")
-      .replace(".m4a", "")
-      .replace(/^./, input[6].toUpperCase());
-  }
+	function play() {
+		if (!paused) {
+			audio.pause();
+			currentDuration = 0.15;
+			audio.currentTime = 0;
+			paused = true;
+			return;
+		}
+
+		stopOthers();
+		if (current && current === audio) {
+			currentDuration = current.duration;
+			audio.currentTime = 0;
+			audio.play();
+		}
+		current = audio;
+	}
+
+	let currentDuration = 0.15
 </script>
 
-<style>
-  /* audio { width: 100%; margin: 0.5em 0 1em 0; } */
-
-  button {
-    width: 100%;
-    height: 100%;
-    margin: 0;
-  }
-</style>
-
 <div>
-  <audio bind:this={audio} bind:paused on:play={stopOthers} {src} />
+	<audio bind:this={audio} bind:paused on:play={stopOthers} src="audio/{file.filename}" />
 
-  <button class:paused={!paused} on:click={play}>{formatName(src)}</button>
+	<button class:paused={!paused} on:click={play} style="--duration: {currentDuration - 0.15}s">
+		{file.label}
+	</button>
 </div>

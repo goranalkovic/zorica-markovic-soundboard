@@ -4,7 +4,7 @@
     "name": "Zorica Marković soundboard",
     "scope": "/",
     "display": "standalone",
-    "start_url": "https://upbeat-lamarr-b38ea5.netlify.com/",
+    "start_url": "https://zoka-soundboard.goranalkovic.com/",
     "short_name": "Zoka soundboard",
     "description": "Soundboard with some of the most popular sayings of the (in)famous Balkan reality show star Zorica Marković",
     "orientation": "any",
@@ -54,6 +54,5 @@
             "type": "image/png"
         }
     ],
-    "url": "https://upbeat-lamarr-b38ea5.netlify.com/",
-    "screenshots": []
+    "url": "https://zoka-soundboard.goranalkovic.com/"
 }

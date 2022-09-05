@@ -3,8 +3,6 @@
 </script>
 
 <script>
-	import { slide } from 'svelte/transition';
-
 	export let file;
 	let audio;
 	let paused = true;

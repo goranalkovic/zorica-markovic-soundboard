@@ -15,7 +15,7 @@
 <main>
   <div class="left">
     <h1>
-      <img src="cursor.png" alt="Zorica Marković" width="64" />
+      <img src="zoka-cyan.png" alt="Zorica Marković" width="64" />
       <br />
       Zorica Marković soundboard
     </h1>
@@ -40,7 +40,7 @@
 
       {#if filteredFiles?.length < 1}
       <div class="search-empty">
-        <img src="/cursor-2.png" alt="Zorica te gleda mrko" width="64">
+        <img src="/zoka-yellow.png" alt="Zorica te gleda mrko" width="64">
         <h2>Šta me gledaš, a? <br /> Misliš da tu ima išta?</h2>
       <p>Traži nešto drugo!</p>
       </div>

@@ -48,7 +48,7 @@
     </div>
 
     
-  {:catch error}
+  {:catch}
     <p>Greška kod učitavanja</p>
   {/await}
 </main>

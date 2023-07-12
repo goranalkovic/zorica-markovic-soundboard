@@ -148,12 +148,30 @@ button.paused::after {
   gap: 1rem;
 }
 
+.grid div {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 1rem;
+}
+
+.grid div a {
+  text-decoration: none;
+  color: var(--gray-400);
+  opacity: 0.4;
+  cursor: url('/zoka-cyan-56.png'), url('/zoka-cyan-32.png'), auto;
+}
+
+.grid div a:hover {
+  opacity: 1;
+}
+
 main {
   display: flex;
   flex-direction: column;
   gap: 1rem;
 
-  padding: 4rem;
+  padding: 2rem;
 
   background: linear-gradient(135deg, var(--gray-50), var(--blue-50));
   background-size: 100vw 100vh;
@@ -185,6 +203,12 @@ h1,
 .search::placeholder {
 	color: var(--blue-700);
 	font-style: italic;
+}
+
+@media (min-width: 800px) {
+  main {
+    padding: 4rem;
+  }
 }
 
 @media (min-width: 1200px) {

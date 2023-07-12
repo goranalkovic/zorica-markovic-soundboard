@@ -32,7 +32,7 @@ body {
 }
 
 body {
-  cursor: url('./zoka-56.png'), url('./zoka-32.png'), auto;
+  cursor: url('/zoka-56.png'), url('/zoka-32.png'), auto;
 
   margin: 0;
   padding: 0;
@@ -64,7 +64,7 @@ button {
   position: relative;
   isolation: isolate;
 
-  cursor: url('./zoka-red-56.png'), url('./zoka-red-32.png'), auto;
+  cursor: url('/zoka-red-56.png'), url('/zoka-red-32.png'), auto;
 
   border-radius: 0.25rem;
   background: none;
@@ -111,7 +111,7 @@ button.paused,
 button.paused:hover {
   border: 1px solid var(--blue-700);
   color: var(--blue-700);
-  cursor: url('./zoka-green-56.png'), url('./zoka-green-32.png'), auto !important;
+  cursor: url('/zoka-green-56.png'), url('/zoka-green-32.png'), auto !important;
 }
 
 button::after {
@@ -179,7 +179,7 @@ h1,
 	border: 1px solid var(--blue-700);
 	font-family: 'Roboto Serif', system-ui, sans-serif;
 
-  cursor: url('./zoka-yellow-56.png'), url('./zoka-yellow-32.png'), auto;
+  cursor: url('/zoka-yellow-56.png'), url('/zoka-yellow-32.png'), auto;
 }
 
 .search::placeholder {

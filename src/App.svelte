@@ -33,7 +33,7 @@
     {@const filteredFiles = files.filter(({ label }) => label.toLowerCase().includes(searchTerm.toLowerCase()))}
     <div class="grid">
       {#each filteredFiles as file, i (i)}
-        <div transition:slide>
+        <div transition:slide|global>
           <AudioPlayer {file} />
         </div>
       {/each}

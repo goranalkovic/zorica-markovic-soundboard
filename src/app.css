@@ -156,6 +156,7 @@ button.paused,
 button.paused:hover {
 	color: var(--blue-700);
 
+	font-variation-settings: 'wdth' 100;
 	background-color: rgb(68 129 235 / 0.2);
 	cursor: url('/zoka-green-56.png'), url('/zoka-green-32.png'), auto !important;
 }

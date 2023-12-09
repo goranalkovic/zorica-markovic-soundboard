@@ -92,9 +92,17 @@ h1 img {
 	margin-block-end: 0.5rem;
 }
 
-h1 img:hover {
+body:not(:has(button.paused)) h1 img:hover {
 	animation-name: spin;
 	animation-duration: 2s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	animation-fill-state: start;
+}
+
+body:has(button.paused) h1 img {
+	animation-name: disco;
+	animation-duration: 5s;
 	animation-iteration-count: infinite;
 	animation-timing-function: linear;
 	animation-fill-state: start;
@@ -317,5 +325,16 @@ h1,
 	}
 	to {
 		rotate: 360deg;
+	}
+}
+
+@keyframes disco {
+	from {
+		rotate: 0deg;
+		scale: 0.9;
+	}
+	to {
+		rotate: 360deg;
+		scale: 1.1;
 	}
 }
